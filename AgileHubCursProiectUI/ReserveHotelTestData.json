@@ -1,0 +1,12 @@
+{
+  "ReserveHotelDto": [
+    {
+      "FirstName": "Marian",
+      "LastName": "Vasile",
+      "Email": "marian@gmail.com",
+      "ConfirmEmail": "marian@gmail.com",
+      "ContactNumber": "0722998877",
+      "Address": "Brasov, 19"
+    }
+  ]
+}

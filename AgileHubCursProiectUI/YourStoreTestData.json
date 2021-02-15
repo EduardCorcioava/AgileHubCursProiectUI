@@ -1,0 +1,12 @@
+{
+  "YourStoreDto": [
+    {
+      "FirstName": "Marian",
+      "LastName": "Vasile",
+      "Email": "marian@gmail.com",
+      "Telephone": "0722998877",
+      "Password": "marian123",
+      "PasswordConfirm": "marian123"
+    }
+  ]
+}
